@@ -1,0 +1,2 @@
+# Hash-Farm
+Hash Calculator
